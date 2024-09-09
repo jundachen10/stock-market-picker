@@ -1,0 +1,11 @@
+bidict==0.22.1
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.8
+injector==0.20.1
+requests==2.32.3
+StrEnum==0.4.15
+tastytrade-sdk==1.0.0
+ujson==5.10.0
+urllib3==2.2.2
+websockets==11.0.3
