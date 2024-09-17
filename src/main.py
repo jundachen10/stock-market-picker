@@ -3,7 +3,7 @@ import os
 
 # Define the test file path
 file_path = os.path.join(
-    "/Users", "jundachen", "code", "stonks", "Pepsi Test Data CIK0000077476.json"
+    "/Users", "jundachen", "code", "stonks", "vital_farms_CIK0001579733.json"
 )
 
 # Load the test JSON file
